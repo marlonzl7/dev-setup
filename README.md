@@ -34,9 +34,7 @@ Scripts para configurar automaticamente um ambiente de desenvolvimento no Ubuntu
 
 ## Como executar
 
-Clone o repositório:
-
-```bash
+```
 git clone https://github.com/marlonzl7/dev-setup
 cd dev-setup
 chmod +x setup*.sh
