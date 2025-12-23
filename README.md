@@ -21,12 +21,6 @@ Automação para configurar automaticamente um ambiente de desenvolvimento no Ub
 ### Ferramentas CLI
     - Neovim
 
-### Aplicações Desktop (via Flatpak)
-    - Postman
-    - MySQL Workbench
-    - Visual Studio Code
-    - IntelliJ IDEA Community
-
 ## Requisitos
     - Ubuntu 22.04+ (testado no Ubuntu 24.04 LTS)
     - Usuário com permissões de sudo
