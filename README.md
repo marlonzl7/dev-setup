@@ -1,6 +1,6 @@
 # Configuração de Ambiente de Desenvolvimento
 
-Scripts para configurar automaticamente um ambiente de desenvolvimento no Ubuntu, instalando ferramentas essenciais, banco de dados, linguagens e aplicações desktop.
+Automação para configurar automaticamente um ambiente de desenvolvimento no Ubuntu, instalando ferramentas essenciais, banco de dados, linguagens e aplicações desktop.
 
 ## O que este setup instala
     - build-essential
