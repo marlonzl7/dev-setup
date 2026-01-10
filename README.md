@@ -20,6 +20,7 @@ Automação para configurar automaticamente um ambiente de desenvolvimento no Ub
 
 ### Ferramentas CLI
     - Neovim
+    - Tree
 
 ## Requisitos
     - Ubuntu 22.04+ (testado no Ubuntu 24.04 LTS)
